@@ -1,3 +1,3 @@
-# Chapter 5: Language, Being, and Structure
+# Chapter 5: Language
 
-语言是结构自我表达的方式。
+Structure of internal topos logic and projection language Lint.

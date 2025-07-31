@@ -1,3 +1,3 @@
-# Chapter 4: Spectral Ontology of the Cosmos
+# Chapter 4: Cosmology
 
-宇宙即谱压缩逻辑系统。
+The cosmological implications of Λμ(x) and Cμν in PAC–μ.

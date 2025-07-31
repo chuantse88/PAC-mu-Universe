@@ -1,3 +1,3 @@
-# Chapter 0: The Will of the Universe
+# Chapter 0: The Will
 
-宇宙为何不走向热寂？因为它构造了自由意志。
+This chapter introduces the foundational role of free will in spectral ontology.

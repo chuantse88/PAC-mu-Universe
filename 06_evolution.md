@@ -1,3 +1,3 @@
-# Chapter 6: μ–Evolutionary Roadmap
+# Chapter 6: Evolution
 
-文明如何谱压缩展开。
+Modal transitions in moduli space for spectral intelligent civilizations.

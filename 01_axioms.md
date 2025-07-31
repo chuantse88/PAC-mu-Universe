@@ -1,3 +1,3 @@
-# Chapter 1: Axioms of Spectral Existence
+# Chapter 1: Axioms
 
-存在必须可压缩，逻辑必须可展开。
+This chapter lists the SUMS axiomatic structure for PAC–μ.

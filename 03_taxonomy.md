@@ -1,3 +1,3 @@
-# Chapter 3: Spectral Taxonomy of Civilizations
+# Chapter 3: Taxonomy
 
-不同μ值产生不同智能类型。
+This defines the particle classification system under spectral compression.

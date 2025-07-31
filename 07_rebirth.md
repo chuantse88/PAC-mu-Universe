@@ -1,3 +1,3 @@
-# Chapter 7: Spectral Free Will and Rebirth
+# Chapter 7: Rebirth
 
-PAC–μ 是宇宙再诞生机制。
+Spectral universes regenerate via logical bifurcation and new compression flow.

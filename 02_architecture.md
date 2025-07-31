@@ -1,3 +1,3 @@
-# Chapter 2: PAC–μ as Mathematical Structure
+# Chapter 2: Architecture
 
-𝒜μ = (𝒞, ℱ, μ, Ψ, 𝕃, Ω, 𝓛int)。
+The architectural layers of the PAC–μ sheaf-based model are discussed.
